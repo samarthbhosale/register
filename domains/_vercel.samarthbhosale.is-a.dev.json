@@ -1,0 +1,8 @@
+{
+    "owner": {
+        "username": "your-github-username"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=samarthbhosale.is-a.dev,5ffa8c35cd796225beca"
+    }
+}
